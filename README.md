@@ -2,7 +2,7 @@
 
 ![banner](https://img.shields.io/badge/ML-Materials%20Science-blue) ![python](https://img.shields.io/badge/Python-ML-green) ![status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-### 📌 Team BizGenius
+### 📌 Team BizGenius (1st Runner Up at Excavate event of COMPOSIT'25)
 
 ---
 
